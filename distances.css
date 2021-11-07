@@ -1,0 +1,18 @@
+/* Basic Fibonnaci-based distance scale */
+:root {
+  --d1: 1px;
+  --d2: 2px;
+  --d3: 3px;
+  --d4: 5px;
+  --d5: 8px;
+  --d6: 13px;
+  --d7: 21px;
+  --d8: 34px;
+  --d9: 55px;
+  --d10: 89px;
+  --d11: 144px;
+  --d12: 233px;
+  --d13: 377px;
+  --d14: 610px;
+  --d15: 987px;
+}
