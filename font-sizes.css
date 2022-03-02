@@ -1,12 +1,13 @@
 /* Generated with https://type-scale.com/ */
 
 :root {
-  --big: 1.25rem;
-  --bigger: 1.563rem;
-  --xl: 1.953rem;
-  --xxl: 2.441rem;
-  --xxxl: 3.052rem;
-  --small: 0.8rem;
-  --smaller: 0.64rem;
-  --tiny: 0.512rem;
+  --font-normal: 1rem;
+  --font-big: 1.25rem;
+  --font-bigger: 1.563rem;
+  --font-xl: 1.953rem;
+  --font-xxl: 2.441rem;
+  --font-xxxl: 3.052rem;
+  --font-small: 0.8rem;
+  --font-smaller: 0.64rem;
+  --font-tiny: 0.512rem;
 }
